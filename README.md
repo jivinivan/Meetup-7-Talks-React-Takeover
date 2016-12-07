@@ -6,7 +6,7 @@
   - duration: 10 minutes
   - abstract: I'm learning React for work. These are all the things I've learned and pain points I've encountered.
 
-- __ A Vue to React __
+- __A Vue to React__
   - led by: TJ (the "J" is for JavaScript)
   - duration: 10 minutes
   - abstract: Literally the best talk you will ever see on any subject.
