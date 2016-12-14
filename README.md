@@ -11,7 +11,7 @@
   - duration: 10 minutes
   - abstract: Literally the best talk you will ever see on any subject.
 
-- __Name of talk__
-  - led by:
-  - duration:
-  - abstract:
+- __Midlife Crisis: To update or not to update__
+  - led by: Corey Fields and Ivan Sugerman
+  - duration: 20 minutes
+  - abstract: React components will re-render every time a prop or state changes. This is bad for performance and will cause headaches in the development process. Tell your components when they should update with `shouldComponentUpdate`.
